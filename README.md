@@ -11,3 +11,4 @@
 |#  |Дата       |Tема                                         |Материалы                                                            
 |---|-----------|---------------------------------------------|---------------------------------------------------------------------|
 |1  |16.09.2022 |Обратное распространение ошибки              |[github](01_backprop/seminar01_backprop.ipynb) / [colab](https://githubtocolab.com/lysukhin/ai-masters-ml3-seminars/blob/main/01_backprop/seminar01_backprop.ipynb)|
+|2  |23.09.2022 |Библиотека PyTorch                           |[github](02_pytorch/seminar02_pytorch.ipynb) / [colab](https://githubtocolab.com/lysukhin/ai-masters-ml3-seminars/blob/main/02_pytorch/seminar02_pytorch.ipynb)|
