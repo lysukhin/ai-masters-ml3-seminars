@@ -15,4 +15,4 @@
 |3  |30.09.2022 |Нейросеть на PyTorch                         |[github](03_neuralnet/seminar03_neuralnet.ipynb) / [colab](https://githubtocolab.com/lysukhin/ai-masters-ml3-seminars/blob/main/03_neuralnet/seminar03_neuralnet.ipynb)|
 |4  |07.10.2022 |Свертки & сети                               |[github](04_convolutions/seminar04_convolutions.ipynb) / [colab](https://githubtocolab.com/lysukhin/ai-masters-ml3-seminars/blob/main/04_convolutions/seminar04_convolutions.ipynb)|
 |5  |14.10.2022 |Обучение CNN                                 |[github](05_cnn/seminar05_cnn.ipynb) / [colab](https://githubtocolab.com/lysukhin/ai-masters-ml3-seminars/blob/main/05_cnn/seminar05_cnn.ipynb)|
-|6  |21.10.2022 |Mask R-CNN                                   |[github](06_mask_r_cnn/seminar06_mask_r_cnn.ipynb) / [colab]()|
+|6  |21.10.2022 |Mask R-CNN                                   |[github](06_mask_r_cnn/seminar06_mask_r_cnn.ipynb) / [colab](https://githubtocolab.com/lysukhin/ai-masters-ml3-seminars/blob/main/06_mask_r_cnn/seminar06_mask_r_cnn.ipynb)|
