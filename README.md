@@ -17,3 +17,4 @@
 |5  |14.10.2022 |Обучение CNN                                 |[github](05_cnn/seminar05_cnn.ipynb) / [colab](https://githubtocolab.com/lysukhin/ai-masters-ml3-seminars/blob/main/05_cnn/seminar05_cnn.ipynb)|
 |6  |21.10.2022 |Mask R-CNN                                   |[github](06_mask_r_cnn/seminar06_mask_r_cnn.ipynb) / [colab](https://githubtocolab.com/lysukhin/ai-masters-ml3-seminars/blob/main/06_mask_r_cnn/seminar06_mask_r_cnn.ipynb)|
 |7  |28.10.2022 |SSD                                          |[github](07_ssd/seminar07_ssd.ipynb) / [colab](https://githubtocolab.com/lysukhin/ai-masters-ml3-seminars/blob/main/07_ssd/seminar07_ssd.ipynb)|
+|8  |04.11.2022 |HW2 и Как решать задачи                      |[github](08_solving_problems/seminar08_solving_problems.ipynb) / [colab](https://githubtocolab.com/lysukhin/ai-masters-ml3-seminars/blob/main/08_solving_problems/seminar08_solving_problems.ipynb)|
