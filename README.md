@@ -20,3 +20,5 @@
 |8  |04.11.2022 |HW2 и Как решать задачи                      |[github](08_solving_problems/seminar08_solving_problems.ipynb) / [colab](https://githubtocolab.com/lysukhin/ai-masters-ml3-seminars/blob/main/08_solving_problems/seminar08_solving_problems.ipynb)|
 |9  |11.11.2022 |Семантическая сегментация, UNet             |[github](09_segmentation/seminar09_segmentation.ipynb) / [colab](https://githubtocolab.com/lysukhin/ai-masters-ml3-seminars/blob/main/09_segmentation/seminar09_segmentation.ipynb)|
 |10  |18.11.2022 |Style Transfer (2021)             |[github](10_style_transfer/10.Style_transfer.ipynb) / [colab](https://githubtocolab.com/lysukhin/ai-masters-ml3-seminars/blob/main/10_style_transfer/10.Style_transfer.ipynb)|
+|11  |25.11.2022 |CRNN                              |[github](11_crnn/seminar11_crnn.ipynb) / [colab](https://githubtocolab.com/lysukhin/ai-masters-ml3-seminars/blob/main/11_crnn/seminar11_crnn.ipynb)|
+|12  |02.12.2022 |Transformer (2021)                |[github](12_transformer/seminar12_transformer.ipynb) / [colab](https://githubtocolab.com/lysukhin/ai-masters-ml3-seminars/blob/main/12_transformer/seminar12_transformer.ipynb)|
