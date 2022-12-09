@@ -22,3 +22,4 @@
 |10  |18.11.2022 |Style Transfer (2021)             |[github](10_style_transfer/10.Style_transfer.ipynb) / [colab](https://githubtocolab.com/lysukhin/ai-masters-ml3-seminars/blob/main/10_style_transfer/10.Style_transfer.ipynb)|
 |11  |25.11.2022 |CRNN                              |[github](11_crnn/seminar11_crnn.ipynb) / [colab](https://githubtocolab.com/lysukhin/ai-masters-ml3-seminars/blob/main/11_crnn/seminar11_crnn.ipynb)|
 |12  |02.12.2022 |Transformer (2021)                |[github](12_transformer/seminar12_transformer.ipynb) / [colab](https://githubtocolab.com/lysukhin/ai-masters-ml3-seminars/blob/main/12_transformer/seminar12_transformer.ipynb)|
+|13  |09.12.2022 |VAE (2021)                        |[github](13_vae/seminar13_vae.ipynb) / [colab](https://githubtocolab.com/lysukhin/ai-masters-ml3-seminars/blob/main/13_vae/seminar13_vae.ipynb)|
